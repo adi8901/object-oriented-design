@@ -1,4 +1,4 @@
-package com.ramesh.ood.concepts.abstraction;
+package com.ramesh.oop.concepts.abstraction;
 
 //---------------------------------------
 //--- STEP 00 - WHAT IS ABSTRACTION & ENCAPSULATION? 
